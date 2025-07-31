@@ -1,0 +1,15 @@
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/bin/Debug/net9.0/Task1
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/bin/Debug/net9.0/Task1.deps.json
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/bin/Debug/net9.0/Task1.runtimeconfig.json
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/bin/Debug/net9.0/Task1.dll
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/bin/Debug/net9.0/Task1.pdb
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.AssemblyInfoInputs.cache
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.AssemblyInfo.cs
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.csproj.CoreCompileInputs.cache
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.sourcelink.json
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.dll
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/refint/Task1.dll
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.pdb
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
+/Users/kellybuabeng/Documents/Code/dcit318-assigment2-11180171/Task1/obj/Debug/net9.0/ref/Task1.dll
